@@ -1,0 +1,10 @@
+.step{
+    display: flex;
+    flex-direction: column;
+    color: var(--marine-blue);
+}
+.step > p{
+    color: var(--cool-gray);
+    width: 45vw;
+    margin: 5px 0 15px 0;
+}
