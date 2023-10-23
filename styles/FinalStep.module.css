@@ -19,8 +19,18 @@
 .final a:hover{
     color: var(--purplish-blue);
 }
+
+.mobile{
+    display: none;
+}
 @media screen and (max-width: 899px) {
     .final{
         margin-top: 10vh;
+    }
+    .desktop{
+        display: none;
+    }
+    .mobile{
+        display: block;
     }
 }

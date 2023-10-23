@@ -10,7 +10,7 @@ export default function FinalStep(){
 
         <p>
             Thanks for visiting this website! I really hope you liked it. If you did, feel free 
-            to email me at <a href="mailto:kvn.contact.professional@gmail.com" target="_blank">kvn.contact.professional@gmail.com</a> or check my portfolio in <a href="https://kvnportfolio.vercel.app" target="_blank">kvnportfolio.vercel.app</a>.
+            to email me <span className={styles.desktop}>at <a href="mailto:kvn.contact.professional@gmail.com" target="_blank">kvn.contact.professional@gmail.com</a></span><span className={styles.mobile}>by <a href="mailto:kvn.contact.professional@gmail.com" target="_blank">clicking here</a></span> or check my portfolio in <a href="https://kvnportfolio.vercel.app" target="_blank">kvnportfolio.vercel.app</a>.
         </p>
         </div>
     )
