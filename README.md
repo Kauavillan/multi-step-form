@@ -1,38 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Site [Multi Step Form](https://kvn-multi-step-form.vercel.app)
 
-## Getting Started
+Este projeto foi baseado em um desafio do site [Frontend mentor](https://www.frontendmentor.io/challenges). Clique no link acima para visitá-lo.
 
-First, run the development server:
+## Conhecimentos adquiridos
+Aprimorei minhas habilidades em:
+* Next.js
+* Javascript
+* Css
+* HTML
+* Git/GitHub
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Sobre o Frontend Mentor
+É um site que disponibiliza desafios que envolvem a criação de páginas voltadas para o frontend. Ele te dá arquivos com os textos utilizados, imagens de como o site deve ficar e, na maioria dos casos, uma lista com as fontes e cores que devem ser utilizadas (não é o caso desse projeto 😭). Fora isso, todo o trabalho é com você!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Capturas de tela desktop
+Página inicial
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![](./Screenshots/Homepage.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Página Destination
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![](./Screenshots/Destination.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Página Crew
 
-## Learn More
+![](./Screenshots/Crew.png)
 
-To learn more about Next.js, take a look at the following resources:
+Página Technology
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![](./Screenshots/Technology.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Caso queira ver a estilização para dispositivos móveis, além de vários outros detalhes, <a href="https://kvn-multi-step-form.vercel.app" target="_blank">clique aqui para visitar o site 👆</a>!
