@@ -12,7 +12,7 @@ Aprimorei minhas habilidades em:
 * Design de páginas web, especialmente voltados a formulários e inputs
 
 ## Sobre o Frontend Mentor
-É um site que disponibiliza desafios que envolvem a criação de páginas voltadas para o frontend. Ele te dá arquivos com os textos utilizados, imagens de como o site deve ficar e, na maioria dos casos, uma lista com as fontes e cores que devem ser utilizadas (não é o caso desse projeto 😭). Fora isso, todo o trabalho é com você!
+É um site que disponibiliza desafios que envolvem a criação de páginas voltadas para o frontend. Ele te dá arquivos com os textos utilizados, imagens de como o site deve ficar e uma lista com as fontes e cores que devem ser utilizadas. Fora isso, todo o trabalho é com você!
 
 ## Capturas de tela desktop
 Personal Info
