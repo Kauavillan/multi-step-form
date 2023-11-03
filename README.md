@@ -9,26 +9,27 @@ Aprimorei minhas habilidades em:
 * Css
 * HTML
 * Git/GitHub
+* Design de páginas web, especialmente voltados a formulários e inputs
 
 ## Sobre o Frontend Mentor
 É um site que disponibiliza desafios que envolvem a criação de páginas voltadas para o frontend. Ele te dá arquivos com os textos utilizados, imagens de como o site deve ficar e, na maioria dos casos, uma lista com as fontes e cores que devem ser utilizadas (não é o caso desse projeto 😭). Fora isso, todo o trabalho é com você!
 
 ## Capturas de tela desktop
-Página inicial
+Personal Info
 
-![](./Screenshots/Homepage.png)
+![](./screenshots/step1.png)
 
-Página Destination
+Select your plan
 
-![](./Screenshots/Destination.png)
+![](./screenshots/step2.png)
 
-Página Crew
+Pick Add-Ons
 
-![](./Screenshots/Crew.png)
+![](./screenshots/step3.png)
 
-Página Technology
+Finishing Up
 
-![](./Screenshots/Technology.png)
+![](./screenshots/step4.png)
 
 
 Caso queira ver a estilização para dispositivos móveis, além de vários outros detalhes, <a href="https://kvn-multi-step-form.vercel.app" target="_blank">clique aqui para visitar o site 👆</a>!
